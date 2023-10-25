@@ -1,4 +1,4 @@
-# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
+![image](https://github.com/harishragav272003/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119345345/3bfbf17d-f9a6-41f2-a29a-6015b0aa828a)# Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
 ### DATE: 03/10/2023
 
@@ -32,6 +32,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![image](https://github.com/harishragav272003/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119345345/de04a384-3ea5-419e-8fe7-152df919a52d)
+
 
 ### Name: HARISH RAGAV S
 ### Register Number: 212222110013
